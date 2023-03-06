@@ -1,0 +1,29 @@
+
+<HTML>
+<HEAD>
+	<TITLE>CRIANDO SEÇÕES</TITLE>
+</HEAD>
+<BODY>
+	<P><FONT FACE="CALIBI" SIZE="3"> VOCÊ SABE O QUE É HTML? VOU TE EXPLICAR O BÁSICO!<BR>
+		<A HREF="#CAPITULO 1">O QUE É HTML?</A><BR>
+		<A HREF="#CAPITULO 2">PRINCIPAIS COMANDOS</A><br>
+		<A HREF="#CAPITULO 3">WEKIPEDIA HTML</A>
+		<BR>
+	<A NAME="CAPITULO 1">
+		<H2> O QUE É HTML?</H2>
+		<P>HTML é uma das linguagens de marcação mais conhecidas e utiliza um formato simples de código, que pode ser gerado sem a ajuda de aplicativos especiais.
+		<P>Para criar um documento HTML, tudo o que você precisa é de um editor de texto ASCII como o NotePad (Bloco de Notas), por exemplo. Se você precisar verificar a formatação do documento durante a criação, pode usar qualquer navegador, pois todos eles são capazes de interpretar o código.
+		</A>
+	<A NAME="CAPITULO 2">
+		<H3>PRINCIPAIS COMANDOS</H3>
+		<P>Os comandos são inseridos no código entre os sinais de menor que "<" e maior que ">" e são chamados de <I>tags</I>
+		</A>
+	<A NAME="CAPITULO 3">
+	<H4>WEKEPEDIA HTML<H4>
+		<p align=center><B>PARA SABER MAIS SOBRE HTML CLIQUE NA IMAGEM ABAIXO</B>
+		<BR><A HREF="https://pt.wikipedia.org/wiki/HTML"><IMG SRC="C:\Users\only_\Downloads\wiki.jpg" heigth="250" width="250"></a></P>
+		
+		
+</FONT>
+</BODY>
+</HTML>
